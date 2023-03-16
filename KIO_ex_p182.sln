@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_01", "KIO_ex_p182\KIO_ex_p182_01.csproj", "{F3E43528-875F-4657-9BC5-4B6C28508C7F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_02", "KIO_ex_p182_02\KIO_ex_p182_02.csproj", "{01129524-EECB-485D-8BD1-E6383D7F0501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_01", "KIO_ex_p182_01\KIO_ex_p182_01.csproj", "{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F3E43528-875F-4657-9BC5-4B6C28508C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3E43528-875F-4657-9BC5-4B6C28508C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3E43528-875F-4657-9BC5-4B6C28508C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3E43528-875F-4657-9BC5-4B6C28508C7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{01129524-EECB-485D-8BD1-E6383D7F0501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01129524-EECB-485D-8BD1-E6383D7F0501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01129524-EECB-485D-8BD1-E6383D7F0501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01129524-EECB-485D-8BD1-E6383D7F0501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

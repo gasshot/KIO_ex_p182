@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3E43528-875F-4657-9BC5-4B6C28508C7F}</ProjectGuid>
+    <ProjectGuid>{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KIO_ex_p182</RootNamespace>
-    <AssemblyName>KIO_ex_p182</AssemblyName>
+    <RootNamespace>KIO_ex_p182_01</RootNamespace>
+    <AssemblyName>KIO_ex_p182_01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
