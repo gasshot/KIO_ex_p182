@@ -9,9 +9,9 @@ namespace KIO_ex_p182_03_02While
             int c = 0;
             int t = 0;
 
-            while (c++ < 5) //0
+            while (c++ < 5) 
             {
-                while (t++ <= 5-c) //01234
+                while (t++ <= 5 - c) 
                 {
                     Console.Write("*");
                 }

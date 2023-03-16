@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KIO_ex_p182_03_01While
+namespace KIO_ex_p182_03_02Do
 {
     class MainApp
     {
@@ -8,16 +8,16 @@ namespace KIO_ex_p182_03_01While
         {
             int c = 0;
             int t = 0;
-
-            while (c++ < 5) // 01234
+            do
             {
-                while (t++ < c) // 
+                do
                 {
                     Console.Write("*");
-                }
+                } while (t++ < 4-c); //005/014/
                 t = 0;
                 Console.WriteLine();
-            }
+
+            } while (c++ < 4); //01234
         }
     }
 }
