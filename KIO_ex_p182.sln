@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_02", "KIO_ex_p1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_01", "KIO_ex_p182_01\KIO_ex_p182_01.csproj", "{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIO_ex_p182_04", "KIO_ex_p182_04\KIO_ex_p182_04.csproj", "{AEA57092-03D2-4790-9F20-9F5ABBA1BFFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70D591DE-01A6-48F8-8CE9-D16F939E2DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA57092-03D2-4790-9F20-9F5ABBA1BFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA57092-03D2-4790-9F20-9F5ABBA1BFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA57092-03D2-4790-9F20-9F5ABBA1BFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA57092-03D2-4790-9F20-9F5ABBA1BFFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
